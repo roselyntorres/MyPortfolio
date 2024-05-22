@@ -9,7 +9,7 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-body {
+/**body {
   font-family: "Inconsolata", monospace;
   color: #0d1e2d;
 }
@@ -32,7 +32,16 @@ h6,
 .font-heading {
   font-family: "Raleway", sans-serif;
 }
-
+**/
+body {
+  font-size: larger;
+}
+.caveat{
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 .section {
   padding: 7rem 0;
 }
