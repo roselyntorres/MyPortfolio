@@ -35,15 +35,19 @@ h6,
 **/
 body {
   font-size: larger;
+
 }
 .caveat{
   font-family: "Caveat", cursive;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
+  
+  
 }
 .section {
   padding: 7rem 0;
+  
 }
 
 .filters a {
